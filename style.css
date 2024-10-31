@@ -1,0 +1,110 @@
+body {
+    /* background-color: aqua; */
+}
+
+/* p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: rgb(160, 127, 9) !important;
+}
+
+.nama1 {
+    color: #6731d1;
+}
+
+#nct {
+    color: black;
+    opacity: 0.2;
+}
+
+.main .btm-container .btm {
+    background-color: darkviolet;
+}
+
+.main .btm-container {
+    border: 3px solid red;
+    margin-top: 50px;
+    padding: 30px;
+    padding-right: 10px;
+} */
+
+.card {
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.1), -10px -10px 10px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    margin: 0 auto;
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.card .card-img {
+    width: 100%;
+    border-radius: 8px;
+}
+
+.card .card-tittle {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+}
+
+.card .card-desc {
+    font-family: Arial, Helvetica, sans-serif;
+    opacity: 0.6;
+}
+
+.card .card-btn {
+    padding: 8px;
+    background-color: blueviolet;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+.kartu {
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.1), -10px -10px 10px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    margin: 0 auto;
+    margin-top: 20px;
+    /* padding: 10px; */
+    padding-bottom: 10px;
+    border-radius: 8px;
+    background-color: rgb(25, 25, 101);
+}
+
+.kartu .kartu-img {
+    width: 100%;
+    border-radius: 4px;
+}
+
+.kartu .kartu-title {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    text-align: center;
+    color: #fff;
+}
+
+.kartu .kartu-desc {
+    font-family: Arial, Helvetica, sans-serif;
+    opacity: 0.8;
+    text-align: center;
+    color: #fff;
+}
+
+.kartu .kartu-btn {
+    padding: 8px;
+    background-color: rgb(233, 52, 202);
+    color: #fff;
+    border: none;
+    border-radius: 16px;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-bottom: 8px;
+    
+}
+
+.kartu .button {
+    display: flex ; 
+    justify-content: center;
+}
